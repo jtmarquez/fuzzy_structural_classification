@@ -691,7 +691,8 @@ def api_fuzzify():
         inf_val = fuzz_model.compute(json_data)
         return jsonify(inf_val)
 
-app.run()
+if __name__ == '__main__':
+    app.run()
 
 
     
