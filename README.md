@@ -11,6 +11,8 @@ of structures such as houses, structures, etc. using simpful library.
 
 This implementation takes 11 parameters: P1, P2, P3, ...., P11, each one representing the state of different aspects of the property to evaluate.
 Based on the input of this 11 parameters, a fuzzy logic methodology is applied to classify the state of the property in one of five classes: IC_C, 
-IC_Inad, IC_Insf, IC_Suf and finally IC_Exc.
+IC_Inad, IC_Insf, IC_Suf and finally IC_Exc, each one representing a Catastrophic, Inadequate, Insufficient, Sufficient or Excelent structural state.
 
 By Ignacio Márquez and José Tomás Márquez
+
+React Frontend accesible via [netlify](https://fuzzify.netlify.app/)
