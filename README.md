@@ -16,3 +16,7 @@ IC_Inad, IC_Insf, IC_Suf and finally IC_Exc, each one representing a Catastrophi
 By Ignacio Márquez and José Tomás Márquez
 
 React Frontend accesible via [netlify](https://fuzzify.netlify.app/)
+
+## To-do
+- Refactor code.
+- Fix small frontend details.
