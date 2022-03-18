@@ -20,3 +20,6 @@ React Frontend accesible via [netlify](https://fuzzify.netlify.app/)
 ## To-do
 - Refactor code.
 - Fix small frontend details.
+
+## By José Tomás Márquez and Ignacio Márquez
+### [My Linkedin](https://www.linkedin.com/in/josetomasmarquezbischoff/)
